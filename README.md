@@ -1,4 +1,4 @@
-<h2 align="center"> Hi, I'm Hui-huo 👋 </h2>
+<h2 align="center"> Hi, I'm Huihuo 👋 </h2>
 <p align="center">
     <p align="center">
         <img src=" https://avatars.githubusercontent.com/u/42165104?s=460&u=5c7fbf0bce7d4b38a15a44676e6f64b529e47598&v=4"/>
