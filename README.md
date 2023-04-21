@@ -11,7 +11,7 @@
 </p>
 
 - Program Language：Python、Java、JavaScript
-- Learning: Python
+- Learning: React
 - Backend Test Engineer.
 - Email: xuechao.luan@gmail.com
 - Wechat: _huihuo
